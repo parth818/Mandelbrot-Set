@@ -17,7 +17,8 @@ Here's a python script to generate a Mandlebrot set image file with desired reso
 ### The image is being generated in two steps :
 <br>
 1.) First, the upper half portion of the image is computed by setting each pixel to a desired value using the code.
-2.) Next, the upper halp portion generated is cropped and flipper to produce a mirror image of itself and is transposed on the original generated image.
+<br>
+2.) Next, the upper half portion generated is cropped and flipper to produce a mirror image of itself and is transposed on the original generated image.
 <br>
 
 ### Hence, a complete image of Mandlebrot set is generated, since the figure is symmetric in nature.
