@@ -31,4 +31,4 @@ Here's a python script to generate a Mandlebrot set image file with desired reso
 <br>
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/
+[MIT](https://choosealicense.com/licenses/mit/)
