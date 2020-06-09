@@ -23,5 +23,5 @@ Here's a python script to generate a Mandlebrot set image file with desired reso
 ### Hence, a complete image of Mandlebrot set is generated, since the figure is symmetric in nature.
 
 ### RGB values can be altered to produce a variety of appearances for the same.
-
-Some sample outputs produced for various resolutions and number of iterations have been added to the 'Outputs' folder.
+<br>
+#Some sample outputs produced for various resolutions and number of iterations have been added to the 'Outputs' folder.
