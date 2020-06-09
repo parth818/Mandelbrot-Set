@@ -28,5 +28,6 @@ Here's a python script to generate a Mandlebrot set image file with desired reso
 #Some sample outputs produced for various resolutions and number of iterations have been added to the 'Outputs' folder.
 <br>
 <br>
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
