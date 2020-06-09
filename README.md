@@ -8,7 +8,7 @@ Consider a fixed complex number c. Starting with z0=0 we can generate the sequen
 <br>
 #### zn+1=zn^2+c
 <br>
-The c number belongs to the Mandelbrot set if and only if the zn sequence is bounded by lim abs(z)->2.0
+The c number belongs to the Mandelbrot set if and only if the zn sequence is bounded by lim abs(z)->2.0.
 
 ## __________________________________________________________________________________________
 
@@ -18,7 +18,7 @@ Here's a python script to generate a Mandlebrot set image file with desired reso
 <br>
 1.) First, the upper half portion of the image is computed by setting each pixel to a desired value using the code.
 <br>
-2.) Next, the upper half portion generated is cropped and flipper to produce a mirror image of itself and is transposed on the original generated image in first step.
+2.) Next, the upper half portion generated is cropped and flipper to produce a mirror image of itself and is transposed on the original image generated in first step.
 <br>
 
 ### Hence, a complete image of Mandlebrot set is generated, since the figure is symmetric in nature.
@@ -26,8 +26,3 @@ Here's a python script to generate a Mandlebrot set image file with desired reso
 ### RGB values can be altered to produce a variety of appearances for the same.
 <br>
 #Some sample outputs produced for various resolutions and number of iterations have been added to the 'Outputs' folder.
-<br>
-<br>
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
