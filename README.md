@@ -24,4 +24,4 @@ Here's a python script to generate a Mandlebrot set image file with desired reso
 
 ### RGB values can be altered to produce a variety of appearances for the same.
 
-#### -> Some sample outputs produced for various resolutions and number of iterations have been added to the 'Outputs' folder.
+Some sample outputs produced for various resolutions and number of iterations have been added to the 'Outputs' folder.
