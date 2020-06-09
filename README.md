@@ -6,7 +6,7 @@ The Mandelbrot set is a famous mathematical object defined by a very simple rule
 
 Consider a fixed complex number c. Starting with z0=0 we can generate the sequence of numbers z0,z1,z2,z3,⋯ by following the rule
 <br>
-#### zn+1=zn2+c
+#### zn+1=zn^2+c
 <br>
 The c number belongs to the Mandelbrot set if and only if the zn sequence is bounded by lim abs(z)->2.0
 
