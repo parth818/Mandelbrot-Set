@@ -10,9 +10,7 @@ Consider a fixed complex number c. Starting with z0=0 we can generate the sequen
 <br>
 The c number belongs to the Mandelbrot set if and only if the zn sequence is bounded by lim abs(z)->2.0.
 
-## _______________
-
-Here's a python script to generate a Mandlebrot set image file with desired resolution and number of iterations to check the bounding criteria.
+## Here's a python script to generate a Mandlebrot set image file with desired resolution and number of iterations to check the bounding criteria.
 
 ### The image is being generated in two steps :
 <br>
