@@ -25,7 +25,7 @@ The c number belongs to the Mandelbrot set if and only if the zn sequence is bou
 <br>
 *Some sample outputs produced for various resolutions and number of iterations have been added to the 'Outputs' folder.
 </br></br>
-<i>*NOTE : some 'tqdm' widgets load only at runtime and hence can only be seen in the pdf attached.</i>
+<i>*NOTE : some 'tqdm' widgets load only at runtime.</i>
 <br>
 <br>
 
