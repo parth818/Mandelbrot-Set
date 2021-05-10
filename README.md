@@ -1,4 +1,4 @@
-# Mandlebrot-Set
+# Mandelbrot-Set
 
 The Mandelbrot set is a famous mathematical object defined by a very simple rule. Nevertheless the Mandelbrot set itself possesses interesting and complex properties which can be seen graphically. This is undoubtly related to the fact that it is a fractal object.
 
